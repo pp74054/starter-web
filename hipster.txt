@@ -3,3 +3,5 @@ Continuing the example posed in the previous section, let’s say that someone w
 Once the repository is cloned, the user would create a branch for the new feature using either the branch or checkout -b command.
 
 After the branch is made, the user would make the necessary updates or changes to the codebase, and commit them.
+
+thetshet tehshet
