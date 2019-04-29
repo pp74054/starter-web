@@ -1,3 +1,5 @@
 Continuing the example posed in the previous section, let’s say that someone wants to add a functionality to an application in a remote repository. The first step would be to fork that repository. This feature, like cloning, is usually available in the user interface of the remote repository software. Forking creates a remote repository, which is a copy of the forked repository, on the user’s own account. From their the user would clone the fork locally use the clone command discussed above.
 
 Once the repository is cloned, the user would create a branch for the new feature using either the branch or checkout -b command.
+
+After the branch is made, the user would make the necessary updates or changes to the codebase, and commit them.
